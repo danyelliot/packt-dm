@@ -1,0 +1,23 @@
+{
+  "name": "packt-dm",
+  "version": "1.0.11",
+  "description": "Minimal Node.js library",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "node scripts/prepare.js",
+    "postinstall": "node scripts/postinstall.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "files": [
+    "index.js",
+    "scripts",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "javascript-obfuscator": "^5.2.1"
+  }
+}
