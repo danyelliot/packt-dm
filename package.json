@@ -1,6 +1,6 @@
 {
   "name": "packt-dm",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Minimal Node.js library",
   "main": "index.js",
   "scripts": {
